@@ -28,7 +28,7 @@
 
 
 ### Краткая информация о данных
-[Датасет резюме из HeadHunter](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
+[Датасет резюме из HeadHunter](https://drive.google.com/file/d/1V7vhbTujKQkPOfsX1M1aRdOuasutYW2Y/view?usp=sharing) - https://drive.google.com/file/d/1V7vhbTujKQkPOfsX1M1aRdOuasutYW2Y/view?usp=sharing
 
 Датасет содержит следующие признаки:
 - Пол, возраст;
