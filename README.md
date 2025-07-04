@@ -45,6 +45,7 @@
 - Авто.
 
 Также для преобразования данных используется [таблица по конвертации валют](/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/data/ExchangeRates.csv)
+
 :arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Оглавление)
 
 
