@@ -1,12 +1,12 @@
-# Проект 0. Угадай число
+# Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Результат)    
+[6. Выводы](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Выводы) 
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
@@ -18,16 +18,17 @@
 - разведывательный анализ;
 - очистка данных.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
 Нужно отработать навыки по обработке данных.
 
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Оглавление)
 
 
 ### Краткая информация о данных
-Датасет резюме из HeadHunter(https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
+[Датасет резюме из HeadHunter](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
 
 Датасет содержит следующие признаки:
 - Пол, возраст;
@@ -44,7 +45,7 @@
 - Авто.
 
 Также для преобразования данных используется [таблица по конвертации валют](/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/data/ExchangeRates.csv)
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -88,17 +89,19 @@
 - удаление строк, где опыт работы больше возраста соискателя
 - построение распределения признака "Возраст" в логарифмическом масштабе. Поиск выбросов с помощью метода z-отклонения и удаление их из данных.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Оглавление)
 
 
 ### Результаты:  
 Данные изучены и подготовлены для дальнейшего построения модели.
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Оглавление)
 
 
 ### Выводы:  
 В ходе работы проанализированы основные признаки, которые влияют на уровень ЗП(руб) соискателей. 
 
 На уровень ЗП в основном влияют такие признаки, как образование, опыт работы соискателя, готовность к командировкам. 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_1_Head_hunter/blob/main/README.md#Оглавление)
 
